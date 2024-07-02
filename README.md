@@ -1,4 +1,4 @@
-# Practise Programming in iOS with Swift & SwiftUI 🚀
+# Practise Programming in iOS with Swift & SwiftUI 🚀 🍏 
 
 ## About
 This repository serves as a playground for me to learn and enhance my skills in iOS development using Swift and SwiftUI. Here, you'll find various exercises, projects, and examples that showcase my journey in mastering these technologies.
